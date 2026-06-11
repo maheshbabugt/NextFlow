@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+build/
+dist/
+.env*
+.vercel/
+public/videos/
+*.mp4
+*.mov
+public/images/landing_page/image.png
