@@ -236,6 +236,8 @@ Database (PostgreSQL via Prisma)
 ---
 
 <p align="center">
-  Built by <b>Mahesh Babu</b>
+  Built and pushed to GitHub by <b>Mahesh Babu</b>
+  <br/>
+  Contact: maheshbabu6673@gmail.com
   <img src="./public/images/cute.png" width="64" />
 </p>
